@@ -7,6 +7,7 @@
 
 using namespace std;
 
+//defines Token class variables and parameters
 class Token {
 private:
     string name;
